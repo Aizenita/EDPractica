@@ -48,7 +48,7 @@ public class Empleat {
 
   //Mètodes privats
   /**
-   * Comprova que el nom no estigui buit
+   * Comprova que el nom no estigui buit ffff
    * @return <ul>
    *           <li>true: el nom és una cadena buida</li> 
    *           <li>false: el nom no és una cadena buida</li> 
@@ -61,3 +61,4 @@ public class Empleat {
     return true;
   }
 }
+//Comentando final de la practica ejercicio 12 de ED
